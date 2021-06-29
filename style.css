@@ -5,7 +5,7 @@ body {
 }
 
 #body-header {
-  height: 65vh;
+  height: 55vh;
   opacity: 0.8;
   background-image: url(image/backgroud_image.jpg);
   background-size: cover;
@@ -46,7 +46,7 @@ body {
 /*Name and Social Icons*/
 
 #name-social-container {
-  margin-top: 20vh;
+  margin-top: 10vh;
 }
 
 #my-name {
